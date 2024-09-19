@@ -1,28 +1,28 @@
-<h1 align="left">🎉 Hello! Welcome to my profile!</h1>
+<h1 align="left">🎉 Olá! Boas-vindas ao meu perfil!</h1>
 
 ###
 
-<p align="left">👋 My name is Martin Garrote, I'm a Full Stack Developer and I live in Blumenau, SC, Brazil.</p>
+<p align="left">👋 Meu nome é Martin Garrote, sou um Desenvolvedor Full Stack e moro em Blumenau, SC, Brasil.</p>
 
 ###
 
-<h2 align="left">📝 About me</h2>
+<h2 align="left">📝 Sobre mim</h2>
 
 ###
 
-<p align="left">👨‍💻 Full Stack Developer<br>🌟 Always seeking to advance, currently developing a system to learn new things and apply what I’ve studied recently.<br><br>💡 Technology Enthusiast<br>Interested and curious about technology. Currently studying Linux and Docker while advancing my existing knowledge in various tech areas.<br><br>📚 Currently Studying<br>Studying Systems Analysis and Development, expanding my knowledge and skills in the area.</p>
+<p align="left">👨‍💻<strong>Desenvolvedor Full Stack</strong><br>Me dedico a implementar soluções completas e alinhadas às boas práticas, desde o back-end até o front-end, utilizando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>TypeScript</strong>, <strong>PostgreSQL</strong>, <strong>Flyway</strong>, <strong>Swagger</strong>, entre outras. Atualmente estou desenvolvendo um projeto pessoal com intuito de consolidar e aplicar conhecimentos que venho adquirido, sempre com foco em escrever código de qualidade e aperfeiçoa-lo.<br><br>💡 <strong>Entusiasta de Tecnologia</strong><br>Sou fascinado por tecnologia desde novo, e isso me levou a estudar e aprimorar constantemente meus conhecimentos na área. Atualmente estou me dedicando a estudar Linux e Docker, para ser capaz de lidar com ambientes de desenvolvimento e produção.<br><br>📚 <strong>Atualmente estudando</strong><br>Estou cursando Análise e Desenvolvimento de Sistemas, expandindo meus conhecimentos e me aperfeiçoando. Em paralelo realizo projetos práticos com intuito de consolidar e aplicar os conhecimentos que venho adquirindo.</p>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/martingarrote/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20with%20me&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Conecte-se%20comigo&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<h2 align="left">⚙️ Techs</h2>
+<h2 align="left">⚙️ Tecnologias</h2>
 
 ###
 
@@ -38,6 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -56,13 +60,9 @@
 
 ###
 
-<h2 align="left">📊 Stats</h2>
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=martingarrote&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martingarrote&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=martingarrote&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martingarrote&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
