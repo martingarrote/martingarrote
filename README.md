@@ -2,15 +2,10 @@
 
 ###
 
-<p align="left">👋 Meu nome é Martin Garrote, sou um Desenvolvedor Full Stack e moro em Blumenau, SC, Brasil.</p>
-
-###
-
-<h2 align="left">📝 Sobre mim</h2>
-
-###
-
-<p align="left">👨‍💻<strong>Desenvolvedor Full Stack</strong><br>Me dedico a implementar soluções completas e alinhadas às boas práticas, desde o back-end até o front-end, utilizando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>TypeScript</strong>, <strong>PostgreSQL</strong>, <strong>Flyway</strong>, <strong>Swagger</strong>, entre outras. Atualmente estou desenvolvendo um projeto pessoal com o intuito de consolidar e aplicar conhecimentos que venho adquirindo, focando em escrever código de qualidade e aperfeiçoa-lo sempre que necessário.<br><br>💡 <strong>Entusiasta de Tecnologia</strong><br>Sou fascinado por tecnologia desde novo, e isso me levou a estudar e aprimorar constantemente meus conhecimentos na área. Atualmente estou me dedicando a estudar Linux e Docker, para ser capaz de lidar com ambientes de desenvolvimento e produção.<br><br>📚 <strong>Atualmente estudando</strong><br>Estou cursando Análise e Desenvolvimento de Sistemas, expandindo meus conhecimentos e me aperfeiçoando. Em paralelo realizo projetos práticos com intuito de consolidar e aplicar os conhecimentos que venho adquirindo.</p>
+<p align="left">👋 Meu nome é Martin Garrote e moro em Blumenau, Santa Catarina.</p>
+<p align="left">💻 Desenvolvedor Full Stack</p>
+<p align="left">💼 Estagiário no GoDev - Senior Sistemas</p>
+<p align="left">🎓 Cursando Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
