@@ -3,8 +3,7 @@
 ###
 
 <p align="left">👋 Meu nome é Martin Garrote e moro em Blumenau, Santa Catarina.</p>
-<p align="left">💻 Desenvolvedor Full Stack</p>
-<p align="left">💼 Estagiário no GoDev - Senior Sistemas</p>
+<p align="left">💼 Desenvolvedor de Software - Senior Sistemas</p>
 <p align="left">🎓 Cursando Análise e Desenvolvimento de Sistemas</p>
 
 ###
